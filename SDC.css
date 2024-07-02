@@ -234,7 +234,7 @@
     rgba(17, 17, 26, 0.1) 0px 0px 8px;
 }
 .card:hover {
-  transform: translateY(-10px);
+  transform: translateY(-7px);
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
 }
 .card-title {
